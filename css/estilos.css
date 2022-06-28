@@ -1,0 +1,123 @@
+*{
+    box-sizing: border-box;
+    @import url(//db.onlinewebfonts.com/c/856dc513473aacbbae151adc65c6e366?family=Lust+Slim+Display);
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(30deg, #E6A19B,#444D9B, #E83E8E, #F8C252);
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+.sobremi{
+    display: flex;
+    margin-top: 5vh;
+    margin-left: 1vh;
+}
+.infotoda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+    background-image : url('../images/fondocuaderno.png');
+    background-size: 100vh;
+}
+.yo{
+    height: 120vh;
+}
+.info2{
+    padding-left: 50px;
+
+}
+
+h1{
+    font-family: "Lust Slim Display";
+    color: #15192D;
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 12px;    
+}
+.texto{
+    background-color: #E6A19B;
+    padding: 2vh;
+    margin: 2vh;
+    line-height : 25px;
+}
+p2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.intereses{
+    margin: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vh;
+    height: relative;
+    width: auto;
+}
+
+.text{
+    text-align: center;
+padding-top: 2vh;
+margin-left: 10vh;
+}
+.caja{
+    margin: 5vh;
+}
+
+p3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding: 20px;
+}
+.software{
+    background-color:#15192D;
+    padding-top: 2vh;
+    padding-bottom: vh
+;
+    
+}
+.software2{
+    margin: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5vh;
+    height: relative;
+    width: auto;
+    padding-bottom: 2vh;
+}
+
+h2{
+    font-family: "Lust Slim Display";
+    color: #ffffff;
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 12px;    
+}
+p4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    color: #ffffff;
+}
+.flip{
+    height: 100vh;
+    }
+p{
+    font-family: "Lust Slim Display";
+    font-size: 50px;
+    color: #15192D;
+    
+}
+.portafolio{
+    display: flex;
+    margin-top: 5vh;
+    margin-left: 1vh;
+}
