@@ -1,6 +1,5 @@
 *{
     box-sizing: border-box;
-    @import url(//db.onlinewebfonts.com/c/856dc513473aacbbae151adc65c6e366?family=Lust+Slim+Display);
 }
 body{
     margin: 0%;
@@ -11,8 +10,16 @@ body{
     justify-content: center;
     align-items: center;
     background:linear-gradient(30deg, #E6A19B,#444D9B, #E83E8E, #F8C252);
-    padding-top: 5vh;
-    padding-bottom: 5vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+.logo2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.barra{
+
 }
 .sobremi{
     display: flex;
@@ -36,7 +43,7 @@ body{
 }
 
 h1{
-    font-family: "Lust Slim Display";
+    font-family: lust, serif;
     color: #15192D;
     font-size: 50px;
     padding-left: 20px;
@@ -51,6 +58,11 @@ h1{
 p2{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
+}
+.yoo{
+    display: flex;
+    justify-content: center;
+
 }
 .intereses{
     margin: 10vh;
@@ -79,12 +91,12 @@ p3{
 .software{
     background-color:#15192D;
     padding-top: 2vh;
-    padding-bottom: vh
+    padding-bottom: 0,5vh
 ;
     
 }
 .software2{
-    margin: 10vh;
+    margin: 5vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -95,7 +107,7 @@ p3{
 }
 
 h2{
-    font-family: "Lust Slim Display";
+    font-family: lust, serif;
     color: #ffffff;
     font-size: 50px;
     padding-left: 20px;
@@ -111,7 +123,7 @@ p4{
     height: 100vh;
     }
 p{
-    font-family: "Lust Slim Display";
+    font-family: lust, serif;
     font-size: 50px;
     color: #15192D;
     
@@ -120,4 +132,23 @@ p{
     display: flex;
     margin-top: 5vh;
     margin-left: 1vh;
+}
+.porta2{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+
+}
+p5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.conta{
+    margin: 1%;
+}
+.formulario{
+    margin-top: 2%;
+}
+.fotomia{
+    margin-top: 1%;
 }
