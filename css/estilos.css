@@ -146,9 +146,28 @@ p5{
 .conta{
     margin: 1%;
 }
-.formulario{
+.contacto{
     margin-top: 2%;
 }
+
 .fotomia{
     margin-top: 1%;
+    display: flex;
+    justify-content: center;
+}
+.fondo01{
+    background:linear-gradient(30deg, #E6A19B,#444D9B, #E83E8E, #F8C252);
+    margin-top: 2%;
+}
+h6{
+    color: white;
+    font-family: lust, serif;
+    font-size: 50px;
+    margin-left: 3vh;
+    padding-top: 2vh;
+
+}
+.fondo02{
+    background:linear-gradient(30deg, #E6A19B,#444D9B, #E83E8E, #F8C252);
+    margin-top: 2%;
 }
